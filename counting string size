@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    char s[123];
+    scanf("%s",s);
+ //   printf("%s",s);
+ int i=0;
+ while(s[i]!='\0')
+ {
+    i++;
+ }
+ cout<<i<<endl;
+
+}
